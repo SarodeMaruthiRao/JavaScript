@@ -1,22 +1,26 @@
 # JavaScript Learning Repository
 
-A comprehensive JavaScript learning repository covering core concepts from basics to advanced Object-Oriented Programming concepts.
+A comprehensive JavaScript learning repository covering fundamental concepts, programming constructs, data structures, and Object-Oriented Programming concepts with practical examples.
 
 ## 📚 Course Contents
 
 ### 01. Introduction
 
-* First Demo
+* Introduction to JavaScript
+* First JavaScript Program
+* JavaScript Basics
 
 ### 02. Variables
 
-* Comments
 * Variables
+* Comments
+* Variable Declaration and Scope
 
-### 03. Data Types
+### 03. Datatypes
 
-* Primitive Types
-* Non-Primitive Types
+* Primitive Data Types
+* Non-Primitive Data Types
+* Type Conversion
 
 ### 04. Operators
 
@@ -38,28 +42,34 @@ A comprehensive JavaScript learning repository covering core concepts from basic
 * While Loop
 * Do-While Loop
 * For Loop
-* Jumping Statements
+* Jumping Statements (break & continue)
 
 ### 07. Functions
 
-* Function Declaration and Usage
+* Function Declaration
+* Function Parameters
+* Return Statements
+* Function Usage
 
 ### 08. Objects
 
-* Objects
+* Object Creation
+* Object Properties
 * Object Methods
 
 ### 09. Arrays
 
-* Arrays
+* Array Basics
+* Array Operations
 * Array Methods
 
 ### 10. Strings
 
-* Strings
+* String Basics
+* String Methods
 * Number Operations
 
-### 11. OOPS (Object-Oriented Programming)
+### 11. OOPS
 
 * Class and Object
 * Static Members
@@ -76,7 +86,7 @@ A comprehensive JavaScript learning repository covering core concepts from basic
    git clone <repository-url>
    ```
 
-2. Navigate to the project directory.
+2. Navigate through the folders sequentially.
 
 3. Run JavaScript files using Node.js:
 
@@ -84,7 +94,7 @@ A comprehensive JavaScript learning repository covering core concepts from basic
    node filename.js
    ```
 
-4. Follow the folders in sequence to learn JavaScript step by step.
+4. Practice the examples provided in each section.
 
 ## 🎯 Learning Path
 
@@ -96,22 +106,19 @@ Follow the folders in the order listed above for the best learning experience.
 * Node.js
 * Visual Studio Code
 
-## 🌟 Topics Covered
+## 📖 Prerequisites
 
-* Variables and Comments
-* Data Types
-* Operators
-* Control Statements
-* Loops
-* Functions
-* Objects
-* Arrays
-* Strings
-* Classes and Objects
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Prototypes
+* Basic Computer Knowledge
+* Node.js Installed
+* Code Editor (VS Code Recommended)
+
+## 🌟 Features
+
+* Beginner-Friendly Examples
+* Well-Structured Learning Path
+* Practical Code Samples
+* Covers Core JavaScript Concepts
+* Object-Oriented Programming Examples
 
 ## ⭐ Support
 
